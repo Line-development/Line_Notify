@@ -33,12 +33,8 @@ No framework dependencies required.
 ---
 
 ## 📦 Exports
-exports['line_notify']:Notify({
-    type = 'success', -- success/error/info/warning --
-    title = 'success',
-    message = 'Payment was successful.',
-    duration = 4000
-})
+
+<img width="448" height="114" alt="image" src="https://github.com/user-attachments/assets/db3c4f7a-937f-420b-b811-4bd635af30e1" />
 
 ---
 
