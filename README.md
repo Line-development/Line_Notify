@@ -44,7 +44,8 @@ No framework dependencies required.
 ## ⚙️ Installation
 1. Download
 2. Place the `line_notify` folder into your `resources` directory
-3. Add the following line to your `server.cfg`:
+3. Add the following line to your `server.cfg`: ensure line_notify
+4. Restart Server
 
 ## ⚙️ Image Notify
 <img width="358" height="382" alt="image" src="https://github.com/user-attachments/assets/b34f41d4-c3c4-4125-b6d8-4b4547efbbc3" />
