@@ -50,5 +50,6 @@ No framework dependencies required.
 <img width="358" height="382" alt="image" src="https://github.com/user-attachments/assets/b34f41d4-c3c4-4125-b6d8-4b4547efbbc3" />
 
 ## ⚙️ History Menu
-<img width="418" height="1439" alt="image" src="https://github.com/user-attachments/assets/fb7e15e4-e23e-454b-b315-4cb24e2cfe6a" />
+<img width="417" height="571" alt="image" src="https://github.com/user-attachments/assets/b9c38d01-a272-41c0-aa8e-f662eface690" />
+
 
